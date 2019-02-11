@@ -19,6 +19,10 @@ public class StudentApp {
         System.out.println(std1.getName());
         System.out.println(std2.getName());
 
+        System.out.println(std1.toString());
+        System.out.println(std2.toString());
+
+
 
     }//main
 }//class
